@@ -1,0 +1,6 @@
+base:
+  '*':
+    #- kernel
+    - docker
+
+
